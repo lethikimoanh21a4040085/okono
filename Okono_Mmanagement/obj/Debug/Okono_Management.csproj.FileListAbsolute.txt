@@ -1,0 +1,295 @@
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Management.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmHoaDonBan.resources
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Interop.LCC11.dll
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.ResolveComReference.cache
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmQuanLyDoanhThu.resources
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Management.csprojAssemblyReference.cache
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.ResolveComReference.cache
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmHoaDonBan.resources
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmQuanLyDoanhThu.resources
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.GenerateResource.cache
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.CoreCompileInputs.cache
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmSanPham.resources
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmThongKe.resources
+D:\Downloads\Okono_Mmanagement_Huyen\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.SanPham.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Management.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.ResolveComReference.cache
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmHoaDonBan.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmNhapHang.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmQuanLyDoanhThu.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmThongKe.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmSanPham.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono.FrmNhanVien.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuChotCa.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuXuatHang.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono_Management.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.ResolveComReference.cache
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmHoaDonBan.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono.FrmNhanVien.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmNhapHang.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuChotCa.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuXuatHang.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmQuanLyDoanhThu.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmThongKe.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmSanPham.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+C:\Users\asus\Downloads\Compressed\Okono_Mmanagement_29-05\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono_Management.csprojAssemblyReference.cache
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Interop.LCC11.dll
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.ResolveComReference.cache
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmHoaDonBan.resources
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono.FrmNhanVien.resources
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmNhapHang.resources
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuChotCa.resources
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuXuatHang.resources
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmQuanLyDoanhThu.resources
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmSanPham.resources
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmThongKe.resources
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.GenerateResource.cache
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.CoreCompileInputs.cache
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+D:\Downloads\Okono 6_6 (1)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Interop.LCC11.dll
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.ResolveComReference.cache
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmHoaDonBan.resources
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono.FrmNhanVien.resources
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmNhapHang.resources
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuChotCa.resources
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuXuatHang.resources
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmQuanLyDoanhThu.resources
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmSanPham.resources
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmThongKe.resources
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+C:\Users\DELL\Downloads\Okono 6_6\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Management.csprojAssemblyReference.cache
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Interop.LCC11.dll
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.ResolveComReference.cache
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmHoaDonBan.resources
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono.FrmNhanVien.resources
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuChotCa.resources
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuXuatHang.resources
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmQuanLyDoanhThu.resources
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmSanPham.resources
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmThongKe.resources
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.GenerateResource.cache
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.CoreCompileInputs.cache
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono0706\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDatHang.resources
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Management.csprojAssemblyReference.cache
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Interop.LCC11.dll
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.ResolveComReference.cache
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmHoaDonBan.resources
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono.FrmNhanVien.resources
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDatHang.resources
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuChotCa.resources
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuXuatHang.resources
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmQuanLyDoanhThu.resources
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmSanPham.resources
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmThongKe.resources
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.GenerateResource.cache
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.CoreCompileInputs.cache
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+C:\Users\Kim Oanh\Downloads\Okono0706\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Management.csprojAssemblyReference.cache
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Interop.LCC11.dll
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.ResolveComReference.cache
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmHoaDonBan.resources
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono.FrmNhanVien.resources
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDatHang.resources
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuChotCa.resources
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuXuatHang.resources
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmQuanLyDoanhThu.resources
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmSanPham.resources
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmThongKe.resources
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.GenerateResource.cache
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.CoreCompileInputs.cache
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+D:\Downloads\Okono0706(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono0806\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+D:\Downloads\Okono0806\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Management.csprojAssemblyReference.cache
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Interop.LCC11.dll
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.ResolveComReference.cache
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmHoaDonBan.resources
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono.FrmNhanVien.resources
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDatHang.resources
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuChotCa.resources
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuXuatHang.resources
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmQuanLyDoanhThu.resources
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmSanPham.resources
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmThongKe.resources
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.GenerateResource.cache
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.CoreCompileInputs.cache
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+D:\Downloads\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Management.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.ResolveComReference.cache
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmHoaDonBan.resources
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono.FrmNhanVien.resources
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDatHang.resources
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuChotCa.resources
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuXuatHang.resources
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmQuanLyDoanhThu.resources
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmSanPham.resources
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmThongKe.resources
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+C:\Users\asus\Downloads\Compressed\Okono0806\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Management.csprojAssemblyReference.cache
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Interop.LCC11.dll
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.ResolveComReference.cache
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmHoaDonBan.resources
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono.FrmNhanVien.resources
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDatHang.resources
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuChotCa.resources
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuXuatHang.resources
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmQuanLyDoanhThu.resources
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmSanPham.resources
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmThongKe.resources
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.GenerateResource.cache
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.CoreCompileInputs.cache
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono0806(Oanh)\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChuNhanVien.resources
+D:\Downloads\Okono\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+D:\Downloads\Okono\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Management.csprojAssemblyReference.cache
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Interop.LCC11.dll
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.ResolveComReference.cache
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmHoaDonBan.resources
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono.FrmNhanVien.resources
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDatHang.resources
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuChotCa.resources
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmQuanLyDoanhThu.resources
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmSanPham.resources
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmThongKe.resources
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChuNhanVien.resources
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.GenerateResource.cache
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.CoreCompileInputs.cache
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTimKiemPDC.resources
+D:\Downloads\Okono\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuDieuChuyen.resources
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Management.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.ResolveComReference.cache
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmHoaDonBan.resources
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono.FrmNhanVien.resources
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDatHang.resources
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuChotCa.resources
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuDieuChuyen.resources
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmQuanLyDoanhThu.resources
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmSanPham.resources
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmThongKe.resources
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTimKiemPDC.resources
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChuNhanVien.resources
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb
+C:\Users\asus\Downloads\Compressed\Okono10_06\Okono\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDaHoanThanhPDC.resources
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Interop.LCC11.dll
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.ResolveComReference.cache
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDaHoanThanhPDC.resources
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmHoaDonBan.resources
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono.FrmNhanVien.resources
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDatHang.resources
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuChotCa.resources
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono.FrmPhieuDieuChuyen.resources
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmQuanLyDoanhThu.resources
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmSanPham.resources
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmThongKe.resources
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTimKiemPDC.resources
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChuNhanVien.resources
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Management.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+C:\Users\DELL\Documents\Oanh\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb

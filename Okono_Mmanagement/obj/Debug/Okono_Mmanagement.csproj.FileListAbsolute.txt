@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.exe
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\bin\Debug\Okono_Mmanagement.pdb
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmDangNhap.resources
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.Properties.Resources.resources
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.exe
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.pdb
+C:\Users\DELL\Documents\Học tập\Okono_Mmanagement\Okono_Mmanagement\obj\Debug\Okono_Mmanagement.FrmTrangChu.resources
